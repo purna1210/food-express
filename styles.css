@@ -1,0 +1,36 @@
+body{
+    background-color: powderblue;
+}
+.subheader{
+    
+    color: white;
+    height: 5.5%;
+}
+.subheaderdiv{
+  display: flex;
+  list-style-type: None;
+  margin-top: 0px;
+  padding-left: 20px;
+  margin-bottom: 0px;
+}
+.navbar{
+  
+  margin-left: 50px;
+  margin-bottom: 5px;
+  font-family: "century Gothic",CenturyGothic,AppleGothic,sans-serif;
+  padding-top:2px;
+  font-size:18px;
+  font-weight: bold;
+}
+.navImg{
+    margin-right: 25px;
+    margin-top: -55px;
+    float: right;
+}
+.navbar1{
+    color: blue;
+    padding-left: 10px;
+    padding-top: 2px;
+    font-size: 18px;
+    font-weight: bold;
+}
